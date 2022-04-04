@@ -42,8 +42,7 @@
   <img alt="MariaDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=" />
   <img alt="phpMyAdmin" src="https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=" />
   <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=" />
- 
- 
+  <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
 </p>
 
 
