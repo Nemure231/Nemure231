@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515600/16207/watermelon_slice.gif?1643515600" width="30"/> Welcome to profile!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515600/16207/watermelon_slice.gif?1643515600" width="30"/> Welcome to my profile!</h1>
 
 
 <p>I'm Karol.Y, i am freelancer web developer
