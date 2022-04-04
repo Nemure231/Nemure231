@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515600/16207/watermelon_slice.gif?1643515600" width="30"/> Welcome to my profile!</h1>
 
-
-<p>I'm Karol.Y, i am freelancer web developer
+<p>Hi, i'm Karol.Y, i am a freelancer web developer.
 <ul>
   <li>
    <div>🌱 I’m currently learning:</div>
@@ -21,7 +20,10 @@
 </p>
 
 
-<h3>My skills and tools</h3>
+<h3>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514983/10096/laptop_parrot.gif?1643514983"" width="30"/>
+  My skills and tools
+</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=" />
   <img alt="JavaScript" src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=" /> 
@@ -45,7 +47,7 @@
   <img alt="Git" src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
 </p>
 
-
+<br>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nemure231&hide=contribs,prs&count_private=true&theme=material-palenight"/>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemure231&layout=compact"/>
 
