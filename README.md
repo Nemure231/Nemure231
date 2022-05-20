@@ -4,7 +4,9 @@
 <ul>
   <li>
    <div>🌱 I’m currently learning:</div>
-   <img alt="ExpressJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=" /></li>
+    <img alt="ExpressJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=" />
+    <img alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" />
+   </li>
   <li>
    <div>📫 How to reach me:</div>
    arualru9@gmail.com
