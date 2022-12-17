@@ -4,14 +4,8 @@
 <ul>
   <li>
    <div>🌱 I’m currently learning:</div>
-    <img alt="NuxtJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=" />
-    <img alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" />
-     <img alt="UnoCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=UnoCSS&color=222222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjIwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDIyMCAyMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGgKICAgIGQ9Ik0xMTcuNzIyIDE2Ny40NDRDMTE3LjcyMiAxMzkuODMgMTQwLjEwOCAxMTcuNDQ0IDE2Ny43MjIgMTE3LjQ0NFYxMTcuNDQ0QzE5NS4zMzYgMTE3LjQ0NCAyMTcuNzIyIDEzOS44MyAyMTcuNzIyIDE2Ny40NDRWMTY3LjQ0NEMyMTcuNzIyIDE5NS4wNTggMTk1LjMzNiAyMTcuNDQ0IDE2Ny43MjIgMjE3LjQ0NFYyMTcuNDQ0QzE0MC4xMDggMjE3LjQ0NCAxMTcuNzIyIDE5NS4wNTggMTE3LjcyMiAxNjcuNDQ0VjE2Ny40NDRaIgogICAgZmlsbD0iIzg4OCIgZmlsbC1vcGFjaXR5PSIwLjYiIC8+CiAgPHBhdGgKICAgIGQ9Ik0xMTcuNzIyIDUyLjU1NjFDMTE3LjcyMiAyNC45NDE5IDE0MC4xMDggMi41NTYxNCAxNjcuNzIyIDIuNTU2MTRWMi41NTYxNEMxOTUuMzM2IDIuNTU2MTQgMjE3LjcyMiAyNC45NDE5IDIxNy43MjIgNTIuNTU2MVY5Ny41NTYxQzIxNy43MjIgMTAwLjMxOCAyMTUuNDgzIDEwMi41NTYgMjEyLjcyMiAxMDIuNTU2SDEyMi43MjJDMTE5Ljk2MSAxMDIuNTU2IDExNy43MjIgMTAwLjMxOCAxMTcuNzIyIDk3LjU1NjFWNTIuNTU2MVoiCiAgICBmaWxsPSIjODg4IiBmaWxsLW9wYWNpdHk9IjAuMyIgLz4KICA8cGF0aAogICAgZD0iTTEwMi4yNzggMTY3LjQ0NEMxMDIuMjc4IDE5NS4wNTggNzkuODkyMiAyMTcuNDQ0IDUyLjI3OCAyMTcuNDQ0VjIxNy40NDRDMjQuNjYzNyAyMTcuNDQ0IDIuMjc3OTYgMTk1LjA1OCAyLjI3Nzk2IDE2Ny40NDRMMi4yNzc5NiAxMjIuNDQ0QzIuMjc3OTYgMTE5LjY4MiA0LjUxNjU0IDExNy40NDQgNy4yNzc5NiAxMTcuNDQ0TDk3LjI3OCAxMTcuNDQ0QzEwMC4wMzkgMTE3LjQ0NCAxMDIuMjc4IDExOS42ODIgMTAyLjI3OCAxMjIuNDQ0TDEwMi4yNzggMTY3LjQ0NFoiCiAgICBmaWxsPSIjODg4IiAvPgo8L3N2Zz4K&label=" />
+     <img alt="Typescript" src="https://img.shields.io/static/v1?style=for-the-badge&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF&label=" />
    </li>
-  <li>
-   <div>📫 How to reach me:</div>
-   arualru9@gmail.com
- </li>
 </ul>
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -37,7 +31,9 @@
   <img alt="CodeIgniter" src="https://img.shields.io/static/v1?style=for-the-badge&message=CodeIgniter&color=EF4223&logo=CodeIgniter&logoColor=FFFFFF&label=" />
   <img alt="VueJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=" />
   <img alt="ViteJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=" />
-  <img alt="JQuery" src="https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=" />
+   <img alt="NuxtJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=" />
+     <img alt="UnoCSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=UnoCSS&color=222222&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjIwIiBoZWlnaHQ9IjIyMCIgdmlld0JveD0iMCAwIDIyMCAyMjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGgKICAgIGQ9Ik0xMTcuNzIyIDE2Ny40NDRDMTE3LjcyMiAxMzkuODMgMTQwLjEwOCAxMTcuNDQ0IDE2Ny43MjIgMTE3LjQ0NFYxMTcuNDQ0QzE5NS4zMzYgMTE3LjQ0NCAyMTcuNzIyIDEzOS44MyAyMTcuNzIyIDE2Ny40NDRWMTY3LjQ0NEMyMTcuNzIyIDE5NS4wNTggMTk1LjMzNiAyMTcuNDQ0IDE2Ny43MjIgMjE3LjQ0NFYyMTcuNDQ0QzE0MC4xMDggMjE3LjQ0NCAxMTcuNzIyIDE5NS4wNTggMTE3LjcyMiAxNjcuNDQ0VjE2Ny40NDRaIgogICAgZmlsbD0iIzg4OCIgZmlsbC1vcGFjaXR5PSIwLjYiIC8+CiAgPHBhdGgKICAgIGQ9Ik0xMTcuNzIyIDUyLjU1NjFDMTE3LjcyMiAyNC45NDE5IDE0MC4xMDggMi41NTYxNCAxNjcuNzIyIDIuNTU2MTRWMi41NTYxNEMxOTUuMzM2IDIuNTU2MTQgMjE3LjcyMiAyNC45NDE5IDIxNy43MjIgNTIuNTU2MVY5Ny41NTYxQzIxNy43MjIgMTAwLjMxOCAyMTUuNDgzIDEwMi41NTYgMjEyLjcyMiAxMDIuNTU2SDEyMi43MjJDMTE5Ljk2MSAxMDIuNTU2IDExNy43MjIgMTAwLjMxOCAxMTcuNzIyIDk3LjU1NjFWNTIuNTU2MVoiCiAgICBmaWxsPSIjODg4IiBmaWxsLW9wYWNpdHk9IjAuMyIgLz4KICA8cGF0aAogICAgZD0iTTEwMi4yNzggMTY3LjQ0NEMxMDIuMjc4IDE5NS4wNTggNzkuODkyMiAyMTcuNDQ0IDUyLjI3OCAyMTcuNDQ0VjIxNy40NDRDMjQuNjYzNyAyMTcuNDQ0IDIuMjc3OTYgMTk1LjA1OCAyLjI3Nzk2IDE2Ny40NDRMMi4yNzc5NiAxMjIuNDQ0QzIuMjc3OTYgMTE5LjY4MiA0LjUxNjU0IDExNy40NDQgNy4yNzc5NiAxMTcuNDQ0TDk3LjI3OCAxMTcuNDQ0QzEwMC4wMzkgMTE3LjQ0NCAxMDIuMjc4IDExOS42ODIgMTAyLjI3OCAxMjIuNDQ0TDEwMi4yNzggMTY3LjQ0NFoiCiAgICBmaWxsPSIjODg4IiAvPgo8L3N2Zz4K&label=" />
+                                                                                                                                          <img alt="JQuery" src="https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=" />
   <img alt="AlpineJS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Alpine.js&color=222222&logo=Alpine.js&logoColor=8BC0D0&label=" />
   <img alt="Tailwind CSS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" />
   <img alt="Bootstrap" src="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=" />
