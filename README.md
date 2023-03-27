@@ -48,7 +48,7 @@
 
 <br>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Nemure231&hide=contribs,prs&count_private=true&theme=material-palenight"/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemure231&layout=compact"/>
+<!--<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemure231&layout=compact"/>-->
 
 <!--
 **Nemure231/Nemure231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
